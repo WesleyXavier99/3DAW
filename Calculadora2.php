@@ -38,7 +38,6 @@
 //testar se todos elementos foram validados 
 	if ($aValido==1 and $bValido==1) {
 		
-		//exibindo as informações ao usuário
 				switch ($operacao) {
 					case 'soma':
 						$resultado = $a + $b;
